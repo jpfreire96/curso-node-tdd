@@ -1,0 +1,6 @@
+{
+    "extends": "standard-with-typescript",
+    "parserOptions": {
+        "project":"./Secao1/clean-node-api/tsconfig.json"
+    }
+}
